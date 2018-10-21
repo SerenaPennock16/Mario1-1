@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Coins
+  - Mushroom
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 1638937897
+    locked: 0
+  - name: Sky Objects
+    uniqueID: 4170082811
+    locked: 0
+  - name: Coins
+    uniqueID: 3981245493
+    locked: 0
+  - name: Ground
+    uniqueID: 559173105
+    locked: 0
+  - name: Mushroom
+    uniqueID: 1406079351
+    locked: 0
+  - name: Goomba
+    uniqueID: 3585468599
+    locked: 0
+  - name: Player
+    uniqueID: 3367289725
+    locked: 0
